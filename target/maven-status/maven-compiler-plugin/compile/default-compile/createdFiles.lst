@@ -1,0 +1,15 @@
+com/wf/captcha/utils/Quant.class
+com/wf/captcha/utils/FileUtil.class
+com/hellokaton/blade/captcha/CaptchaKit.class
+com/wf/captcha/utils/Encoder.class
+com/wf/captcha/SpecCaptcha.class
+com/wf/captcha/utils/GifEncoder.class
+com/wf/captcha/ChineseGifCaptcha.class
+com/wf/captcha/ChineseCaptcha.class
+com/wf/captcha/ArithmeticCaptcha.class
+com/wf/captcha/GifCaptcha.class
+com/wf/captcha/base/Randoms.class
+com/wf/captcha/utils/FontsUtil.class
+com/wf/captcha/base/Captcha.class
+com/wf/captcha/base/ArithmeticCaptchaAbstract.class
+com/wf/captcha/base/ChineseCaptchaAbstract.class
